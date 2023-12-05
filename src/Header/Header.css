@@ -1,0 +1,24 @@
+.head {
+    background-color: rgb(88, 44, 79);
+}
+
+.contact {
+    display: flex;
+    gap: 20px;
+}
+
+.country {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.topline {
+    height: 26px;
+    margin-right: 8%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 40px;
+}
