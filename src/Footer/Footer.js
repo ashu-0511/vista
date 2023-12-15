@@ -10,7 +10,7 @@ import award1 from "../images/award1.webp"
 import award2 from "../images/award2.webp"
 import award3 from "../images/award3.webp"
 import link from "../images/external.webp"
-import top from '../images/top.png'
+// import top from '../images/top.png'
 
 export default function Footer() {
     return (
