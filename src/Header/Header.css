@@ -1,17 +1,28 @@
-.head {
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.main {
     background-color: rgb(88, 44, 79);
+    display: flex;
+}
+
+.contact img {
+    height: 16px;
+    width: 16px;
 }
 
 .contact {
     display: flex;
     gap: 20px;
+    font-size: 15px;
 }
 
 .country {
     display: flex;
-    gap: 10px;
-    justify-content: center;
-    align-items: center;
+    gap: 9px;
 }
 
 .topline {
@@ -21,4 +32,63 @@
     justify-content: flex-end;
     align-items: center;
     gap: 40px;
+    height: 25px;
+}
+
+.head {
+
+    margin-left: 92px;
+    margin-right: 80px;
+    /* display: flex;
+    justify-content: flex-end; */
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list {
+    margin: 0;
+}
+
+.navbar ul {
+    display: flex;
+    color: white;
+    gap: 40px;
+    font-size: 20px;
+    font-weight: 400;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.navbar ul li {
+    color: white;
+}
+
+.logs:hover {
+    text-decoration: underline burlywood;
+
+}
+
+.boot:hover {
+    color: black;
+    background-color: white;
+}
+
+.boot {
+    background-color: white;
+    border: none;
+    color: black;
+}
+
+.search {
+    background: transparent;
+    color: gray;
+    border: 1px solid white;
+    width: 130px;
+    height: 30px;
+    font-size: 15px;
 }
