@@ -86,7 +86,14 @@
 .input1 {
     display: flex;
     position: relative;
+
 }
+
+.input2 {
+    padding: 6px;
+}
+
+
 
 .label1 {
     color: grey;
@@ -96,4 +103,5 @@
     top: -11px;
     background-color: white;
     position: absolute;
+
 }

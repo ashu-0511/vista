@@ -4,7 +4,7 @@ import ficon from "../images/ficon.png"
 import bicon from "../images/bicon.png"
 import cicon from "../images/cicon.png"
 import sicon from "../images/sicon.png"
-// import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import arrow from "../images/arrow.png"
 
 export default function Booking() {
@@ -34,23 +34,23 @@ export default function Booking() {
                     </div>
                     <div className='input-box'>
                         <div className='input1'>
-                            <input className='origin input2' name='origin' placeholder='Select Departure City'></input>
+                            <input className='origin input2' name='origin' placeholder='Select Departure City' required></input>
                             <label className='label1'>Origin</label>
                         </div>
                         <img src={arrow} alt="NOne" />
                         <div className='input1'>
-                            <input className='origin input2' name='origin' placeholder='Select Arrival City' ></input>
+                            <input className='origin input2' name='origin' placeholder='Select Arrival City' required ></input>
                             <label className='label1'>Destination</label>
                         </div>
                         <div className='input1'>
-                            <input className='origin input2' name='origin' placeholder='Departure - Return' type='datetime-local'></input>
+                            <input className='origin input2' name='origin' placeholder='Departure - Return' type='datetime-local' required></input>
                             <label className='label1'>Travel Dates</label>
                         </div>
                         <div className='input1'>
                             <input className='origin input2' name='origin' value='1Pax ,Economy'></input>
                             <label className='label1'>Passengers</label>
                         </div>
-                        <button className='flight'>Search Flights</button>
+                        <Link to="/Flight">  <button className='flight'>Search Flights</button></Link>
                     </div>
                 </div>
             </div>

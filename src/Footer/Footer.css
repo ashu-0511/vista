@@ -23,6 +23,11 @@
     list-style-type: none;
 }
 
+.lists li:hover {
+    cursor: pointer;
+    color: #b69355;
+}
+
 .percent {
     width: 25%;
 }

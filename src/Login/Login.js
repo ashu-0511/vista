@@ -14,7 +14,7 @@ function Login() {
                             <div className="bar">
                                 <form className="bar">
                                     <input name="username" placeholder="Email or Club Vistara ID"></input>
-                                    <input name="password" required placeholder="Password"></input>
+                                    <input name="password" required placeholder="Password" type='password'></input>
                                 </form>
                                 <div>
                                     <button className="btn">Log In</button>

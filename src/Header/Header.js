@@ -46,11 +46,11 @@ export default function Header() {
                 </div>
                 <div className='navbar'>
                     <ul className='list'>
-                        <li>Plan Travel</li>
-                        <li>Travel Information</li>
-                        <li>Club Vistara</li>
+                        <li className='logs'>Plan Travel</li>
+                        <li className='logs'>Travel Information</li>
+                        <li className='logs'>Club Vistara</li>
                         <Link to="/Login"> <li className='logs'>Login</li></Link>
-                        <li>Enrol</li>
+                        <li className='logs'>Enrol</li>
                         <div>
                             <input placeholder='Search' className='search' type="search"></input>
                             {/* <Icon icon="gg:search" /> */}
@@ -59,6 +59,7 @@ export default function Header() {
                     </ul>
                 </div>
             </div>
+            <button id='top' ><span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#b69355" d="M5 15h4v6h6v-6h4l-7-8zM4 3h16v2H4z" /></svg></span><a href='#'>Top</a></button>
         </div>
     )
 }
