@@ -59,7 +59,7 @@ export default function Header() {
                     </ul>
                 </div>
             </div>
-            <button id='top' ><span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#b69355" d="M5 15h4v6h6v-6h4l-7-8zM4 3h16v2H4z" /></svg></span><a href='#'>Top</a></button>
+            <button id='top'><a href='#/none'>Top</a></button>
         </div>
     )
 }
