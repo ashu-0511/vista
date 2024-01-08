@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/vista/static/css/main.e4564e12.css",
+    "main.js": "/vista/static/js/main.fd24c7e4.js",
+    "static/js/787.bcbfe59f.chunk.js": "/vista/static/js/787.bcbfe59f.chunk.js",
+    "static/media/caro1.webp": "/vista/static/media/caro1.3a4e23925fdf9cd5b91d.webp",
+    "static/media/background.png": "/vista/static/media/background.86e8fbeb75b9e12ea324.png",
+    "static/media/caro2.webp": "/vista/static/media/caro2.3d4a05a8728a8ffcb360.webp",
+    "static/media/caro3.webp": "/vista/static/media/caro3.aaba74edbee37564620a.webp",
+    "static/media/owl4.webp": "/vista/static/media/owl4.ff37ad002a4f24401051.webp",
+    "static/media/owl5.webp": "/vista/static/media/owl5.b50acc6b40857fcc17b2.webp",
+    "static/media/owl1.webp": "/vista/static/media/owl1.9c188df761d44578f7ea.webp",
+    "static/media/owl3.webp": "/vista/static/media/owl3.0a8cc120ab15f927b1c6.webp",
+    "static/media/owl6.webp": "/vista/static/media/owl6.912a2d78723b79f6029f.webp",
+    "static/media/owl2.webp": "/vista/static/media/owl2.4da62d4fa69798a76617.webp",
+    "static/media/pattern.png": "/vista/static/media/pattern.a3983af0bb036915214d.png",
+    "static/media/twitter-logo-01.webp": "/vista/static/media/twitter-logo-01.de653c3ee895df5ab903.webp",
+    "static/media/club.png": "/vista/static/media/club.ed63d44115f5ea674080.png",
+    "static/media/WhatsApp-Icon-1.webp": "/vista/static/media/WhatsApp-Icon-1.bce664af9fc98225acbf.webp",
+    "static/media/award2.webp": "/vista/static/media/award2.422e539913521b2a0388.webp",
+    "static/media/award1.webp": "/vista/static/media/award1.fb9f257d2c3a1ccd1875.webp",
+    "static/media/external.webp": "/vista/static/media/external.745c664ecf24872fc231.webp",
+    "static/media/youtube-1.webp": "/vista/static/media/youtube-1.6fd6e55c5570ca123855.webp",
+    "static/media/instagram-1.webp": "/vista/static/media/instagram-1.1fb18f3874cc524b85d8.webp",
+    "static/media/award3.webp": "/vista/static/media/award3.5f0b1e3d48d891bfe0f3.webp",
+    "static/media/facebook-1.webp": "/vista/static/media/facebook-1.ff39bca4cb72869e00f5.webp",
+    "static/media/linkedin.webp": "/vista/static/media/linkedin.ef47f22385086bd8dc62.webp",
+    "index.html": "/vista/index.html",
+    "main.e4564e12.css.map": "/vista/static/css/main.e4564e12.css.map",
+    "main.fd24c7e4.js.map": "/vista/static/js/main.fd24c7e4.js.map",
+    "787.bcbfe59f.chunk.js.map": "/vista/static/js/787.bcbfe59f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4564e12.css",
+    "static/js/main.fd24c7e4.js"
+  ]
+}
